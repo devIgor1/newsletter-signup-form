@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-Just a simple form for a newsletter
+Apenas um formulário de envio que fiz só por hoobie mesmo. Peguei o template do Frontend Mentor
